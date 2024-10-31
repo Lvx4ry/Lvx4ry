@@ -10,7 +10,7 @@
 
 <br>
 <center>
-  <table>
+  <table align="center">
     <tr>
       <td>🌱</td>
       <td>Actualmente estoy estudiando C++ y backend.</td>
