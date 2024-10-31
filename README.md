@@ -9,19 +9,19 @@
 
 
 <br>
+<p align="center">
+<div style="text-align: center;">
+  <ul>
+    <li>🌱 Actualmente estoy estudiando C++ y backend.</li>
+    <li>📫 Contactame vía mail: <strong>f.leiton001@gmail.com</strong></li>
+    <li>💼 Visita mi portafolio: <a href="https://facundo-leiton.netlify.app/" target="_blank"><strong>facundo-leiton.netlify.app</strong></a></li>
+    <li>🔗 Conectemos en <a href="https://www.linkedin.com/in/facundo-leit%C3%B3n/" target="_blank"><strong>LinkedIn</strong></a></li>
+    <li>👀 Disfruto de aprender y curiosear lo desconocido.</li>
+    <li>👾 Gamer tryhard de MMORGP, Fighting Games y RTS.</li>
+  </ul>
+</div>
 
-- 🌱 Actualmente estoy estudiando C++ y backend.
-
-- 📫 Contactame vía mail: **f.leiton001@gmail.com**
-
-- 💼 Visita mi portafolio: **[facundo-leiton.netlify.app](https://facundo-leiton.netlify.app/)**
-
-- 🔗 Conectemos en **[LinkedIn](https://www.linkedin.com/in/facundo-leit%C3%B3n/)**.
-
-- 👀 Disfruto de aprender y curiosear lo desconocido.
-
-- 👾 Gamer tryhard de MMORGP, Fighting Games y RTS.
-
+</div>
 
 <br>
 
