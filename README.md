@@ -1,15 +1,13 @@
+
 <h1 align="center">Holis 👋, soy Facundo Leiton</h1>
 <h3 align="center">Desarrolador Jr🌟 | Estudiante IT 🎓.</h3>
 
-<br>
 
-<img style="display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;" align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnc0aWFuNmJmYXp0NjJzaXQ3a3Z3emlnM3AxdzRuOWo1ZTVzc2dvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etUkfy7BaMYwsGglSG/giphy.gif">
+<p align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnc0aWFuNmJmYXp0NjJzaXQ3a3Z3emlnM3AxdzRuOWo1ZTVzc2dvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etUkfy7BaMYwsGglSG/giphy.gif">
+</p>
 
-<br>
+
 <br>
 
 - 🌱 Actualmente estoy estudiando C++ y backend.
@@ -29,9 +27,9 @@
 
 
 
-<h3 align="left">Stack y Herramientas:</h3>
+<h3 align="center">Stack y Herramientas:</h3>
 
-<div >
+<div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
@@ -46,14 +44,16 @@
 
 <br>
 
-<h3>Statistical Data :</h3>
-<p><img align="center"
+<h3 align="center">Statistical Data :</h3>
+<div align="center">
+<img align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvx4ry&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
-    bg_color=#808080/></p>
-
+    bg_color=#808080/>
+</div>
 <br>
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lvx4ry&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+</div>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lvx4ry&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
       
