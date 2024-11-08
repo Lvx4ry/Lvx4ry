@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img width="80%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnc0aWFuNmJmYXp0NjJzaXQ3a3Z3emlnM3AxdzRuOWo1ZTVzc2dvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etUkfy7BaMYwsGglSG/giphy.gif">
+<img width="80%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnc0aWFuNmJmYXp0NjJzaXQ3a3Z3emlnM3AxdzRuOWo1ZTVzc2dvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etUkfy7BaMYwsGglSG/giphy.gif" alt="banner-solaire>
 </p>
 
 
@@ -65,12 +65,12 @@
 <div align="center">
 <img align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvx4ry&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    alt="facundo-leiton" 
     bg_color=#808080/>
 </div>
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lvx4ry&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lvx4ry&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="facundo-leiton" />
 </div>
 
       
