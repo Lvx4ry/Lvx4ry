@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Holis 👋, soy Facundo Leiton</h1>
 <h3 align="center">Desarrolador Jr🌟 | Estudiante IT 🎓.</h3>
 
@@ -13,7 +14,7 @@
   <table align="center">
     <tr>
       <td>🌱</td>
-      <td>Actualmente estoy estudiando C++ y backend.</td>
+      <td>Actualmente estoy estudiando Backend con Express.js.</td>
     </tr>
     <tr>
       <td>📫</td>
@@ -32,8 +33,8 @@
       <td>Disfruto de aprender y curiosear lo desconocido.</td>
     </tr>
     <tr>
-      <td>👾</td>
-      <td>Gamer tryhard de MMORGP, Fighting Games y RTS.</td>
+      <td>🤩</td>
+      <td>No quiero salidas fáciles, busco un desafío.</td>
     </tr>
   </table>
 </center>
@@ -57,20 +58,3 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 	<img width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="GitHub" title="GitHub"/>
 </div>
-
-
-<br>
-
-<h3 align="center">Statistical Data :</h3>
-<div align="center">
-<img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Lvx4ry&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="facundo-leiton" 
-    bg_color=#808080/>
-</div>
-<br>
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lvx4ry&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="facundo-leiton" />
-</div>
-
-      
