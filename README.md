@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Holis 👋, soy Facundo Leiton</h1>
-<h3 align="center">Desarrolador Jr🌟 | Estudiante IT 🎓.</h3>
+<h3 align="center">Desarrollador Jr🌟 | Estudiante IT 🎓.</h3>
 
 
 <p align="center">
